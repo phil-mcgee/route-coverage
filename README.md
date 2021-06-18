@@ -33,5 +33,4 @@ Sample expected routes data
 9 = {ObservedRoute@6761} "ObservedRoute{sessionId='AcceptanceTestSessionId', verb='PUT', url='/ping.jsf', signature='/ping.xhtml', sources=[]}"
 10 = {ObservedRoute@6762} "ObservedRoute{sessionId='AcceptanceTestSessionId', verb='PUT', url='/ping.xhtml', signature='/ping.xhtml', sources=[]}"
 11 = {ObservedRoute@6763} "ObservedRoute{sessionId='AcceptanceTestSessionId', verb='PUT', url='/faces/ping.xhtml', signature='/ping.xhtml', sources=[]}"
-12 = {ObservedRoute@6764} "ObservedRoute{sessionId='AcceptanceTestSessionId', verb='DELETE', url='/ping.faces', signature='/ping.xhtml', sources=[]}"
 ```
